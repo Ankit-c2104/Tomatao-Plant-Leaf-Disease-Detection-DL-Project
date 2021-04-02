@@ -2,6 +2,18 @@
 
 Website Link - "https://tomatoleafdisease-detection.appspot.com"
 
+Data From - https://www.kaggle.com/noulam/tomato and Scraped around 1000 images from Google.
+
+Model Creation - Tried different transfer learning techniques like LeNet, AlexNet, ResNet52, and VGG16. VGG16 came out as the best performing model with an accuracy of 94.01%.
+Data Augmentation was also performed.
+
+Technologies used:
+1. For Coding - Google Collab and PyCharm.
+2. Front End - Using Bootstrap, HTML and CSS
+3. Deployment - Using Flask On Google Cloud Platform (GCP)
+
+
+
 ### Abstract: 
 
 Today agriculture is a key source of livelihood for around 50% of people in India. To bring positive growth in India’s GDP, modifications in the agriculture industry are required. Around 42% of the farm produce goes to waste due to the inability of farmers to detect and take precautions against plant leaf diseases. 
