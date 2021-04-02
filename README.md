@@ -1,5 +1,8 @@
 # Tomatao-Plant-Leaf-DIsease-Detection
 
+My LinkedIn - https://www.linkedin.com/in/ankit-chauhan-279b5b161/
+My Articles - https://ankitchauhan21.medium.com/
+
 Website Link - "https://tomatoleafdisease-detection.appspot.com"
 
 Data From - https://www.kaggle.com/noulam/tomato and Scraped around 1000 images from Google.
@@ -12,6 +15,11 @@ Technologies used:
 2. Front End - Using Bootstrap, HTML and CSS
 3. Deployment - Using Flask On Google Cloud Platform (GCP)
 
+Team Members:
+1. Ankit Chauhan
+2. Ashutosh Chalmal
+3. Akhyar Ahmed
+4. Onkar Ransubhe
 
 
 ### Abstract: 
