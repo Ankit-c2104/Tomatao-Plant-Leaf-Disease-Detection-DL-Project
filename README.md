@@ -16,7 +16,7 @@ Data Augmentation was also performed.
 Technologies used:
 1. For Coding - Google Collab and PyCharm.
 2. Front End - Using Bootstrap, HTML and CSS
-3. Deployment - Using Flask On Google Cloud Platform (GCP)
+3. Deployment - Using Flask, deployen On Google Cloud Platform (GCP)
 
 Team Members:
 1. Ankit Chauhan
