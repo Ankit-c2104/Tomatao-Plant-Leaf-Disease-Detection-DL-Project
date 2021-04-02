@@ -1,6 +1,8 @@
 # Tomatao-Plant-Leaf-Disease-Detection
-### My LinkedIn - https://www.linkedin.com/in/ankit-chauhan-279b5b161/
-### My Articles - https://ankitchauhan21.medium.com/
+#### My LinkedIn - https://www.linkedin.com/in/ankit-chauhan-279b5b161/
+#### My Articles - https://ankitchauhan21.medium.com/
+
+## About the Project - 
 
 Website Link - "https://tomatoleafdisease-detection.appspot.com"
 
