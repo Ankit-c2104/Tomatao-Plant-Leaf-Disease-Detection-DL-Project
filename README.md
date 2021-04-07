@@ -10,8 +10,8 @@ Website Link - "https://tomatoleafdisease-detection.appspot.com"
 
 Data From - https://www.kaggle.com/noulam/tomato and Scraped around 1000 images from Google.
 
-Model Creation - Tried different transfer learning techniques like LeNet, AlexNet, ResNet52, and VGG16. VGG16 came out as the best performing model with an accuracy of 94.01%.
-Data Augmentation was also performed.
+Model Creation - Tried different transfer learning techniques like LeNet, AlexNet, ResNet52, and VGG16 along with Data Augmentation. VGG16 came out as the best performing model with an accuracy of 94.01%.
+
 
 Technologies used:
 1. For Coding - Google Collab and PyCharm.
