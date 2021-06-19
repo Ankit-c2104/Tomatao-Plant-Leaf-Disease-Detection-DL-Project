@@ -1,0 +1,81 @@
+We know that images are represented in the
+form of a matrix and pixels.So,
+when we say that we have a high resolution image,
+it simply means that it has a lot of pixels present  
+in the image.
+
+So, in this project we are using Convolution Neural 
+Network for image classification.
+Basically CNN is a combination of two Networks,
+First network is responsible for feature extraction 
+and the other for Finding the relationships between 
+the features extracted or for classification
+
+In the first Network,
+we have some important operations that we need
+to understand before moving forward.
+
+
+NEXT
+
+1. Convolution:
+Convolution operations are performed on the
+images to extract features from the images.
+
+There is no limit for Number of conv kernels to be present.
+We can have multiple Convolution filters.
+Conventionally, the first Convolutional Layer is
+responsible for capturing the low-Level features such as
+edges, color, shpaes etc. With the use of
+added layers, the architecture adapts to the high-level
+features as well, giving us a network that has a good
+understanding of images in the data set.
+
+Its also helps to reduce the size of the image.
+
+Exaplain the image in the ppt
+
+NEXT
+
+2. Pooling
+The second important operation is Pooling.
+Similar to the convolution operation, the operation
+of pooling is to reduce the size of the
+images/matrix.
+
+Pooling operation is used to
+extract the dominant features from the image.
+
+Although filters of different sizes can be used
+for pooling, generally 2x2 size filter is used. Pooling
+operations can be of different types such as average
+pooling, max pooling and, minimum pooling can be used
+in this layer. In this project, max pooling and average
+pooling has been applied.
+
+Pooling Operation is generally performed after 
+Convolution operation, but there is no thumb rule.
+
+Exaplain the image in the ppt
+
+NEXT
+
+Once we have completed the Feature extraction
+operation we flatten our matrix or in simple terms 
+convert the matrix into a 1-D Array, which is given
+as input to the Fully Connected Neural Netwrks, which is responsible
+for classification of the images.
+
+And, in the last layer, which is the output layer we are 
+using SofMax Activation Function, which calculates the 
+probability of each class and returns the class with 
+highest probability.
+
+This is How CNN performs classification of the images.
+
+Now, next Ashutosh wil brief you about the phases of our project.
+
+
+
+
+
